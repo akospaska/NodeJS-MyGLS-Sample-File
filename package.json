@@ -1,0 +1,20 @@
+{
+  "name": "mygls-api-sample-file-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "fs": "*",
+    "hex2dec": "^1.1.2",
+    "js-sha512": "^0.8.0",
+    "path": "^0.12.7"
+  }
+}
